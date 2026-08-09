@@ -1,0 +1,3 @@
+-keep class com.fox.rat.** { *; }
+-keepattributes *Annotation*
+-dontwarn org.java_websocket.**
